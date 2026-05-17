@@ -1,0 +1,47 @@
+* {
+    margin: 30px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    position: relative;
+    filter: blur;
+}
+body{
+     background: url(symbol6.jpg);
+    backdrop-filter: blur(1px);
+    backface-visibility: hidden;
+    margin: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+}
+
+.he{
+    padding: 20px;
+    position: fixed;
+    top:35%;
+    left:50%;
+    translate: -50% -55%;
+    filter: drop-shadow(0 0 15px );
+    transition: 0.5s;
+}
+.shin{
+    
+    margin-left: 53%;
+    margin-top: 1%;
+    filter: drop-shadow(0 0 5px );
+    transition: 0.5s;
+}
+p{
+    margin-bottom: 27%;
+    margin-top: 21%;
+    margin-left: 8%;
+    text-decoration:wavy;
+    font: 2rem sans-serif;
+    text-decoration-color: crimson;
+    text-shadow: 10cm;
+    filter: drop-shadow(0 0 7px ) ;
+
+}
