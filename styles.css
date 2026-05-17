@@ -1,0 +1,72 @@
+* {
+    margin: 30px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    justify-content: center;
+}
+body{
+    background: url(symbol4.jpg);
+    backdrop-filter: blur(1px);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+img{
+    border-radius: 40px;
+    box-sizing: 15cm;
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    height: 350px;
+    transition: 0.3s;
+    box-shadow: 0 0 50cm rgba(233, 7, 7, 0.375);
+}
+p{
+    color:darkmagenta;
+    display: block;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50;
+}
+a{
+    
+    text-decoration: none ;
+    color:black ;
+}
+
+#Chusthanu{
+    display: inline-block;
+    margin-bottom: auto;
+    margin-left: 37%;
+    margin-right:auto ;
+    padding:  15px 2px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(241, 205, 237);
+    box-shadow: 0 0 15px rgb(245, 168, 236);
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+#chudanu{
+    display: inline-block;
+    margin-top: auto;
+    margin-right: auto;
+    padding:  15px 2px;
+    border: none;
+    border-radius: 30px;
+    background: rgb(241, 205, 237);
+    box-shadow: 0 0 15px rgb(245, 168, 236);
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
